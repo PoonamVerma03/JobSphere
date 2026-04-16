@@ -1,0 +1,8 @@
+404         completed
+about       completed 
+category    completed   
+contact     completed   
+index       completed
+job-detail  completed
+job-list    completed
+testimonial completed  
